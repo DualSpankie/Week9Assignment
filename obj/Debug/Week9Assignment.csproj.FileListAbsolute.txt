@@ -1,0 +1,8 @@
+C:\Users\thebe\Documents\GitHub\Week9Assignment\bin\Debug\Week9Assignment.exe.config
+C:\Users\thebe\Documents\GitHub\Week9Assignment\bin\Debug\Week9Assignment.exe
+C:\Users\thebe\Documents\GitHub\Week9Assignment\bin\Debug\Week9Assignment.pdb
+C:\Users\thebe\Documents\GitHub\Week9Assignment\obj\Debug\Week9Assignment.csproj.AssemblyReference.cache
+C:\Users\thebe\Documents\GitHub\Week9Assignment\obj\Debug\Week9Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\thebe\Documents\GitHub\Week9Assignment\obj\Debug\Week9Assignment.csproj.CoreCompileInputs.cache
+C:\Users\thebe\Documents\GitHub\Week9Assignment\obj\Debug\Week9Assignment.exe
+C:\Users\thebe\Documents\GitHub\Week9Assignment\obj\Debug\Week9Assignment.pdb
